@@ -1,0 +1,464 @@
+{
+  "countries": [
+    {
+      "flag": "./EUROPE/al.svg",
+      "name": "Albania",
+      "capital": "Tirana",
+      "population": 2877000,
+      "area": 28748,
+      "highestPoint": "Mount Korab (2764m)",
+      "longestRiver": "Drin",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/ad.svg",
+      "name": "Andorra",
+      "capital": "Andorra la Vella",
+      "population": 79000,
+      "area": 468,
+      "highestPoint": "Coma Pedrosa (2942m)",
+      "longestRiver": "Gran Valira",
+      "mostPopularSport": "Skiing"
+    },
+    {
+      "flag": "./EUROPE/at.svg",
+      "name": "Austria",
+      "capital": "Vienna",
+      "population": 9042000,
+      "area": 83879,
+      "highestPoint": "Grossglockner (3798m)",
+      "longestRiver": "Danube",
+      "mostPopularSport": "Alpine Skiing"
+    },
+    {
+      "flag": "./EUROPE/by.svg",
+      "name": "Belarus",
+      "capital": "Minsk",
+      "population": 9379000,
+      "area": 207600,
+      "highestPoint": "Dzyarzhynskaya Hara (346m)",
+      "longestRiver": "Dnieper",
+      "mostPopularSport": "Ice Hockey"
+    },
+    {
+      "flag": "./EUROPE/be.svg",
+      "name": "Belgium",
+      "capital": "Brussels",
+      "population": 11590000,
+      "area": 30689,
+      "highestPoint": "Signal de Botrange (694m)",
+      "longestRiver": "Meuse",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/ba.svg",
+      "name": "Bosnia and Herzegovina",
+      "capital": "Sarajevo",
+      "population": 3271000,
+      "area": 51209,
+      "highestPoint": "Maglić (2386m)",
+      "longestRiver": "Sava",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/bg.svg",
+      "name": "Bulgaria",
+      "capital": "Sofia",
+      "population": 6878000,
+      "area": 110879,
+      "highestPoint": "Musala (2925m)",
+      "longestRiver": "Danube",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/hr.svg",
+      "name": "Croatia",
+      "capital": "Zagreb",
+      "population": 3899000,
+      "area": 56594,
+      "highestPoint": "Dinara (1831m)",
+      "longestRiver": "Sava",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/cy.svg",
+      "name": "Cyprus",
+      "capital": "Nicosia",
+      "population": 1244000,
+      "area": 9251,
+      "highestPoint": "Mount Olympus (1952m)",
+      "longestRiver": "Pedieos",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/cz.svg",
+      "name": "Czech Republic",
+      "capital": "Prague",
+      "population": 10510000,
+      "area": 78871,
+      "highestPoint": "Sněžka (1603m)",
+      "longestRiver": "Vltava",
+      "mostPopularSport": "Ice Hockey"
+    },
+    {
+      "flag": "./EUROPE/dk.svg",
+      "name": "Denmark",
+      "capital": "Copenhagen",
+      "population": 5903000,
+      "area": 42952,
+      "highestPoint": "Møllehøj (171m)",
+      "longestRiver": "Gudenå",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/ee.svg",
+      "name": "Estonia",
+      "capital": "Tallinn",
+      "population": 1331000,
+      "area": 45227,
+      "highestPoint": "Suur Munamägi (318m)",
+      "longestRiver": "Võhandu",
+      "mostPopularSport": "Basketball"
+    },
+    {
+      "flag": "./EUROPE/fi.svg",
+      "name": "Finland",
+      "capital": "Helsinki",
+      "population": 5560000,
+      "area": 338455,
+      "highestPoint": "Halti (1324m)",
+      "longestRiver": "Kemijoki",
+      "mostPopularSport": "Ice Hockey"
+    },
+    {
+      "flag": "./EUROPE/fr.svg",
+      "name": "France",
+      "capital": "Paris",
+      "population": 67970000,
+      "area": 551695,
+      "highestPoint": "Mont Blanc (4808m)",
+      "longestRiver": "Loire",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/de.svg",
+      "name": "Germany",
+      "capital": "Berlin",
+      "population": 83400000,
+      "area": 357592,
+      "highestPoint": "Zugspitze (2962m)",
+      "longestRiver": "Rhine",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/gr.svg",
+      "name": "Greece",
+      "capital": "Athens",
+      "population": 10640000,
+      "area": 131957,
+      "highestPoint": "Mount Olympus (2917m)",
+      "longestRiver": "Haliacmon",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/hu.svg",
+      "name": "Hungary",
+      "capital": "Budapest",
+      "population": 9710000,
+      "area": 93028,
+      "highestPoint": "Kékes (1014m)",
+      "longestRiver": "Danube",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/is.svg",
+      "name": "Iceland",
+      "capital": "Reykjavik",
+      "population": 382000,
+      "area": 103000,
+      "highestPoint": "Hvannadalshnúkur (2110m)",
+      "longestRiver": "Þjórsá",
+      "mostPopularSport": "Handball"
+    },
+    {
+      "flag": "./EUROPE/ie.svg",
+      "name": "Ireland",
+      "capital": "Dublin",
+      "population": 5127000,
+      "area": 70273,
+      "highestPoint": "Carrauntoohil (1038m)",
+      "longestRiver": "Shannon",
+      "mostPopularSport": "Gaelic Football"
+    },
+    {
+      "flag": "./EUROPE/it.svg",
+      "name": "Italy",
+      "capital": "Rome",
+      "population": 58940000,
+      "area": 301340,
+      "highestPoint": "Mont Blanc (4808m)",
+      "longestRiver": "Po",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/xk.svg",
+      "name": "Kosovo",
+      "capital": "Pristina",
+      "population": 1798000,
+      "area": 10887,
+      "highestPoint": "Gjeravica (2656m)",
+      "longestRiver": "White Drin",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/lv.svg",
+      "name": "Latvia",
+      "capital": "Riga",
+      "population": 1884000,
+      "area": 64559,
+      "highestPoint": "Gaiziņkalns (312m)",
+      "longestRiver": "Daugava",
+      "mostPopularSport": "Ice Hockey"
+    },
+    {
+      "flag": "./EUROPE/li.svg",
+      "name": "Liechtenstein",
+      "capital": "Vaduz",
+      "population": 39000,
+      "area": 160,
+      "highestPoint": "Vorder Grauspitz (2599m)",
+      "longestRiver": "Rhine",
+      "mostPopularSport": "Alpine Skiing"
+    },
+    {
+      "flag": "./EUROPE/lt.svg",
+      "name": "Lithuania",
+      "capital": "Vilnius",
+      "population": 2801000,
+      "area": 65300,
+      "highestPoint": "Aukštojas Hill (294m)",
+      "longestRiver": "Nemunas",
+      "mostPopularSport": "Basketball"
+    },
+    {
+      "flag": "./EUROPE/lu.svg",
+      "name": "Luxembourg",
+      "capital": "Luxembourg City",
+      "population": 660000,
+      "area": 2586,
+      "highestPoint": "Kneiff (560m)",
+      "longestRiver": "Moselle",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/mt.svg",
+      "name": "Malta",
+      "capital": "Valletta",
+      "population": 535000,
+      "area": 316,
+      "highestPoint": "Ta' Dmejrek (253m)",
+      "longestRiver": "None",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/md.svg",
+      "name": "Moldova",
+      "capital": "Chișinău",
+      "population": 2598000,
+      "area": 33846,
+      "highestPoint": "Bălănești Hill (430m)",
+      "longestRiver": "Dniester",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/mc.svg",
+      "name": "Monaco",
+      "capital": "Monaco",
+      "population": 39000,
+      "area": 2.02,
+      "highestPoint": "Chemin des Révoires (164m)",
+      "longestRiver": "None",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/me.svg",
+      "name": "Montenegro",
+      "capital": "Podgorica",
+      "population": 617000,
+      "area": 13812,
+      "highestPoint": "Bobotov Kuk (2522m)",
+      "longestRiver": "Tara",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/nl.svg",
+      "name": "Netherlands",
+      "capital": "Amsterdam",
+      "population": 17590000,
+      "area": 41850,
+      "highestPoint": "Mount Scenery (887m)",
+      "longestRiver": "Rhine",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/mk.svg",
+      "name": "North Macedonia",
+      "capital": "Skopje",
+      "population": 2085000,
+      "area": 25713,
+      "highestPoint": "Golem Korab (2764m)",
+      "longestRiver": "Vardar",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/no.svg",
+      "name": "Norway",
+      "capital": "Oslo",
+      "population": 5490000,
+      "area": 323802,
+      "highestPoint": "Galdhøpiggen (2469m)",
+      "longestRiver": "Glomma",
+      "mostPopularSport": "Cross-country Skiing"
+    },
+    {
+      "flag": "./EUROPE/pl.svg",
+      "name": "Poland",
+      "capital": "Warsaw",
+      "population": 38040000,
+      "area": 312696,
+      "highestPoint": "Rysy (2499m)",
+      "longestRiver": "Vistula",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/pt.svg",
+      "name": "Portugal",
+      "capital": "Lisbon",
+      "population": 10330000,
+      "area": 92212,
+      "highestPoint": "Mount Pico (2351m)",
+      "longestRiver": "Tagus",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/ro.svg",
+      "name": "Romania",
+      "capital": "Bucharest",
+      "population": 19050000,
+      "area": 238397,
+      "highestPoint": "Moldoveanu Peak (2544m)",
+      "longestRiver": "Danube",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/ru.svg",
+      "name": "Russia",
+      "capital": "Moscow",
+      "population": 144400000,
+      "area": 3969100,
+      "highestPoint": "Mount Elbrus (5642m)",
+      "longestRiver": "Volga",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/sm.svg",
+      "name": "San Marino",
+      "capital": "San Marino",
+      "population": 34000,
+      "area": 61,
+      "highestPoint": "Monte Titano (739m)",
+      "longestRiver": "Ausa",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/rs.svg",
+      "name": "Serbia",
+      "capital": "Belgrade",
+      "population": 6834000,
+      "area": 88361,
+      "highestPoint": "Midžor (2169m)",
+      "longestRiver": "Danube",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/sk.svg",
+      "name": "Slovakia",
+      "capital": "Bratislava",
+      "population": 5460000,
+      "area": 49037,
+      "highestPoint": "Gerlachovský štít (2655m)",
+      "longestRiver": "Váh",
+      "mostPopularSport": "Ice Hockey"
+    },
+    {
+      "flag": "./EUROPE/si.svg",
+      "name": "Slovenia",
+      "capital": "Ljubljana",
+      "population": 2119000,
+      "area": 20271,
+      "highestPoint": "Triglav (2864m)",
+      "longestRiver": "Sava",
+      "mostPopularSport": "Alpine Skiing"
+    },
+    {
+      "flag": "./EUROPE/es.svg",
+      "name": "Spain",
+      "capital": "Madrid",
+      "population": 47610000,
+      "area": 505990,
+      "highestPoint": "Teide (3718m)",
+      "longestRiver": "Tagus",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/se.svg",
+      "name": "Sweden",
+      "capital": "Stockholm",
+      "population": 10520000,
+      "area": 450295,
+      "highestPoint": "Kebnekaise (2097m)",
+      "longestRiver": "Klarälven-Göta älv",
+      "mostPopularSport": "Ice Hockey"
+    },
+    {
+      "flag": "./EUROPE/ch.svg",
+      "name": "Switzerland",
+      "capital": "Bern",
+      "population": 8740000,
+      "area": 41285,
+      "highestPoint": "Dufourspitze (4634m)",
+      "longestRiver": "Rhine",
+      "mostPopularSport": "Alpine Skiing"
+    },
+    {
+      "flag": "./EUROPE/ua.svg",
+      "name": "Ukraine",
+      "capital": "Kyiv",
+      "population": 43790000,
+      "area": 603500,
+      "highestPoint": "Hoverla (2061m)",
+      "longestRiver": "Dnieper",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/gb.svg",
+      "name": "United Kingdom",
+      "capital": "London",
+      "population": 67330000,
+      "area": 242495,
+      "highestPoint": "Ben Nevis (1345m)",
+      "longestRiver": "River Severn",
+      "mostPopularSport": "Football"
+    },
+    {
+      "flag": "./EUROPE/va.svg",
+      "name": "Vatican City",
+      "capital": "Vatican City",
+      "population": 825,
+      "area": 0.44,
+      "highestPoint": "Vatican Hill (75m)",
+      "longestRiver": "None",
+      "mostPopularSport": "Football"
+    }
+  ]
+}
