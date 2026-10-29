@@ -6,9 +6,9 @@ const display = (info) => {
   
     let cards = info.map((country) => {
     const {flag, name, capital, population, highestPoint, longestRiver, mostPopularSport} = country;
-    return `<article class="card">
+    return `<li><article class="card">
                 <header>
-                    <img src="${flag}" />
+                    <img src="${flag}" alt="Flag of ${name}" />
                 </header>
                 <div class="card_body">
                     <p class="card_info">
@@ -30,7 +30,7 @@ const display = (info) => {
                         <span class="tag_name">Most popular sport:</span><span>${mostPopularSport}</span>
                     </p>
                 </div>
-            </article>`
+            </article></li>`
 }).join("");
  
     contentGrid.innerHTML = cards;

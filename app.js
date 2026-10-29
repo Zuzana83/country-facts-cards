@@ -1,24 +1,29 @@
-import fetchFollowers from "./fetchFollowers.js";
-import displayFollowers from "./displayFollowers.js"
+import fetchCards from "./fetchCards.js";
+import displayCards from "./displayCards.js"
 import paginate from "./paginate.js"
 import displayButtons from "./displayButtons.js";
 
+const pageStatusEl = document.getElementById("pageStatus");
 const heading = document.querySelector("h1");
 const btnContainer = document.querySelector(".btn_container");
 let index = 0;
 let pages = [];
 
 const setupUI = () => {
-    displayFollowers(pages[index]);
+    displayCards(pages[index]);
     displayButtons(btnContainer, pages, index);
+    pageStatusEl.textContent = `Page ${index + 1} of ${pages.length}`;
 }
 
 const init = async() => {
-    const info = await fetchFollowers();
+    const info = await fetchCards();
+    if(!info) {
+        heading.textContent = "Failed to load countries. Please try again.";
+    }
     heading.textContent = "List of European Countries";
     pages = paginate(info);
     setupUI();
-    // console.log(pages);
+   
 }
 
 btnContainer.addEventListener("click", function(e) {

@@ -7,9 +7,9 @@
     <title>Country Facts Cards</title>
 </head>
 <body>
-    <section class="cards_section">
-        <h1>Loading...</h1>
-        <div class="content_grid">
+    <section class="cards_section" aria-labelledby="pageTitle">
+        <h1 id="pageTitle" aria-live="polite">Loading...</h1>
+        <ul class="content_grid">
             <!-- <article class="card">
                 <header>
                     <img src="./EUROPE/pt.svg" alt="flag of portugal" />
@@ -36,8 +36,9 @@
                 </div>
             </article> -->
            
-        </div>
-        <div class="btn_container"></div>
+        </ul>
+        <nav class="btn_container" aria-label="Pagination"></nav>
+        <div class="sr-only" aria-live="polite" id="pageStatus"></div>
     </section>
 
     <script type="module" src="./app.js"></script>
